@@ -1,0 +1,32 @@
+.header{
+    display:flex;
+    padding-top: 45px;
+    padding-left: 150px;
+    font-family: 'Rubik', sans-serif;
+}
+
+.header.-nav{
+    margin-left: 20%;
+    padding-top: 0px;
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+    padding-right: 15px;
+    cursor: pointer;
+}
+
+.header.-nav a{
+    padding-top: 10px;
+    padding-right:58px ;
+    color: #4F5665;
+    font-size: 16px;
+}
+
+.logo-title{
+    padding-top: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
