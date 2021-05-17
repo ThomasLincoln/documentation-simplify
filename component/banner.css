@@ -1,0 +1,12 @@
+.banner{
+    display: inline-flex;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.section-banner{
+    width: 550px;
+    height: 335px;
+    margin-left: 100px;
+    margin-top: 90px;
+}
