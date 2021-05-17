@@ -1,5 +1,16 @@
-.action{
+.action {
     background-color: #0CDB07;
-    padding: 20px 40px;
-    margin-top: 1000px;
+    padding: 20px 30px;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.blur {
+    background: rgba(12, 219, 7, 0.41);
+    filter: blur(54px);
+    border-radius: 10px;
+    width: 180px;
+    height: 60px;
 }
