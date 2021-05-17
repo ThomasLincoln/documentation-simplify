@@ -1,2 +1,2 @@
 # documentation-simplify
-A simple Documentation 
+a simple documentation of all my studies
