@@ -18,15 +18,15 @@
 }
 
 .header.-nav a{
-    margin-top: 5px;
+    margin-top: 15px;
     margin-right:58px ;
-    color: #4F5665;
+    color: #dfe9ff;
     font-size: 16px;
 }
 
 .logo-title{
     padding-top: 10px;
-    color: black;
+    color: rgb(252, 252, 252);
     font-weight: bold;
     font-size: 20px;
 }
