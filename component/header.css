@@ -30,3 +30,8 @@
     font-weight: bold;
     font-size: 20px;
 }
+
+.title-nav{
+    position: absolute;
+    margin-top: 10px;
+}
