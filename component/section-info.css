@@ -1,0 +1,19 @@
+.section-info{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-left: 175px;
+    padding-top: 85px;
+    padding-bottom: 85px;
+    border-radius: 5px;
+    background-color: blueviolet;
+    margin-bottom: 20px;
+}
+
+.left-info{
+    margin-right: 450px;
+}
+
+.right-info{
+    padding-right: 160px;
+}
