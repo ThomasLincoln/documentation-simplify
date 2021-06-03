@@ -1,3 +1,12 @@
-.letters-selector{
-    margin-top: 20px;
+.letter-selector{
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.letter{
+    color: rgb(112, 112, 112);
+}
+
+.letter.-a{
+    color: #0CDB07;
 }
