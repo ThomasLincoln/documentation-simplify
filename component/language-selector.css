@@ -1,0 +1,11 @@
+.option-wrapper{
+    display: flex;
+}
+
+.option-language{
+    background-color:rgb(46, 46, 46);
+    margin-top: 50px;
+    margin-right: 20px;
+    width: 250px;
+    border-radius: 2px;
+}
