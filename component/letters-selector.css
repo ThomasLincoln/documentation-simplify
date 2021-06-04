@@ -1,9 +1,9 @@
 .letter-selector{
     margin-top: 50px;
-    font-size: 40px;
 }
 
 .letter{
+    font-size: 40px;
     color: rgb(112, 112, 112);
 }
 

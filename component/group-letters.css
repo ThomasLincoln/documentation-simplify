@@ -1,0 +1,18 @@
+.title-group{
+    margin-top: 40px;
+    margin-bottom:20px;
+}
+
+.link-group{
+    margin-bottom: 10px;
+}
+
+.letters{
+    padding-top: 5px;
+    padding-right: 5px;
+    letter-spacing: 2px;   
+}
+
+.letter-selector{
+    display:flex;
+}
