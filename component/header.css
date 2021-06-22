@@ -1,12 +1,11 @@
 .header{
     display:flex;
-    padding-top: 35px;
+    padding-top: 15px;
     font-family: 'Rubik', sans-serif;
 }
 
 .header.-nav{
     margin-left: 25%;
-    padding-top: 0px;
 }
 
 .header.-nav a{
