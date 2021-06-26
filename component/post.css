@@ -2,7 +2,7 @@
     font-size: 45px;
     color: #04d300;
     padding-bottom: 20px;
-    padding-top: 40px;
+    padding-top: 20px;
 }
 
 .main-post{
@@ -13,8 +13,14 @@
 
 .paragrafo-post{
     padding-bottom: 20px;
+    text-indent: 20px;
 }
 
 .imagem-post{
     padding-bottom: 20px;
+}
+
+.voltar{
+    display: inline-block;
+    margin-top: 2%;
 }
