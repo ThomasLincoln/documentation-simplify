@@ -15,6 +15,7 @@
     <link
         href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp"
         rel="stylesheet">
+    <link rel="stylesheet" href="../scripts/prism.css">
     <title>Docs - base</title>
 </head>
 
@@ -48,9 +49,12 @@
             como início.
             Exemplo:
         </h3>
-        <img class="imagem-post" src="../assets/base.png" alt="Demonstração base">
+
+        <div class="code">
+            <pre><code class="language-html">&lt;base&nbsp;href="./assets/"&gt;</code></pre>
+        </div>
         <h3 class="paragrafo-post">
-            Quando você usa o base, todos os href irão começar a partir daquele link que for colocado 
+            Quando você usa o base, todos os href irão começar a partir daquele link que for colocado
             no base. Por exemplo, caso você coloque "href = ./assets", qualquer href usado irá começar
             a partir de ./assets.
         </h3>
@@ -58,6 +62,8 @@
             Só é possível usar uma tag base por página html.
         </h3>
     </main>
+
+    <script src="../scripts/prism.js"></script>
 </body>
 
 </html>
